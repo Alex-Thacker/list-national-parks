@@ -1,0 +1,10 @@
+/* If the park has been visited, the article tag should have a red dashed border. If the park has not been visited, it should have a green solid border. */
+
+
+.redBorder {
+    border: 4px dashed red;
+}
+
+.greenBorder {
+    border: 8px solid green;
+}
